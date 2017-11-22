@@ -1,1 +1,1 @@
-CMSZenoss,i-094eaf9072f4a4aac,Cognizant,Yes,Silver,App,Redhat Linux,RHEL 7.3 3.10.0-514.2.2.el7.x86_64,Yes,Yes,Monthly,Production,Quaterly,Native,IST,Optional,Yes,21 Nov 2017,
+CMSZenoss,i-094eaf9072f4a4aac,Cognizant,Yes,Silver,App,Redhat Linux,RHEL 7.3 3.10.0-514.2.2.el7.x86_64,Yes,Yes,Monthly,Production,Quaterly,Native,,IST,Optional,Yes,21 Nov 2017,

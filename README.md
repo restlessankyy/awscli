@@ -6,8 +6,10 @@ Prerequisites
 2. A text file containing Insatance Name and Instance ID.
 3. Execute .sh file 
 
-and waatch the magic happening ...
+Sit back and relax and Watch the magic happening ...
 
 
-Peace 
+Peace <3 
+
+
 Happy Coding !!!
